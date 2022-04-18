@@ -15,6 +15,7 @@ function App() {
             </div>
           </div>
         </div>
+        {/* This part adds the control buttons */}
         <div className="">
           <div className="controls">
             <button>start</button>
